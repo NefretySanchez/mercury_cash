@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "country": "Brazil"
+    },
+    {
+      "id": 2,
+      "country": "Canada"
+    },
+    {
+      "id": 3,
+      "country": "Colombia"
+    },
+    {
+      "id": 4,
+      "country": "Mexico"
+    },
+    {
+      "id": 5,
+      "country": "Panama"
+    },
+    {
+      "id": 6,
+      "country": "Uruguay"
+    },
+    {
+      "id": 7,
+      "country": "United States"
+    },
+    {
+      "id": 8,
+      "country": "Venezuela"
+    }
+  ]
+}
